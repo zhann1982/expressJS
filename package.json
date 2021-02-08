@@ -1,0 +1,30 @@
+{
+  "name": "expressjs",
+  "version": "0.1.0",
+  "description": "express.js tutorial - traversy",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhann1982/expressJS.git"
+  },
+  "keywords": [
+    "express",
+    "node"
+  ],
+  "author": "@Zhann1982",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhann1982/expressJS/issues"
+  },
+  "homepage": "https://github.com/zhann1982/expressJS#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
